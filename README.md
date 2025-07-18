@@ -4,7 +4,7 @@
 
 <h1 align="center"><b>Hi , I'm Franco Altieri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+Software+Developer" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+Software+Developer" alt="Typing SVG"/>
 
 <img align="right" width=300px alt="boy programming" src="https://wallpapers.com/images/hd/anime-boy-computer-68mzqrg6ffu3vtlw.jpg" />
 
@@ -77,7 +77,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=francoaltieri&theme=onedark" alt="francoaltieri" />
+    <img src="https://github-profile-trophy.vercel.app/?username=francoaltieri&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="francoaltieri" />
   </a> 
 </p>
-</div>
