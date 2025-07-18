@@ -4,7 +4,7 @@
 
 <h1 align="center"><b>Hi , I'm Franco Altieri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+Software+Developer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=30&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+Software+Developer" alt="Typing SVG"/>
 
 <img align="right" width=300px alt="boy programming" src="https://wallpapers.com/images/hd/anime-boy-computer-68mzqrg6ffu3vtlw.jpg" />
 
