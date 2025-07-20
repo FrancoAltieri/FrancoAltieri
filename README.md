@@ -73,7 +73,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <h2>Github stats:</h2> 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francoaltieri&show_icons=true&theme=tokyonight&locale=en" alt="francoaltieri" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francoaltieri&show_icons=true&theme=tokyonight&locale=en&cache_seconds=43200" alt="francoaltieri" />
 </p>
 
 <p>
