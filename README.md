@@ -67,6 +67,10 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <a href="https://www.instagram.com/franco.altieri_?igsh=MXM5eTNqdGc2amVhMg==" target="_blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" height="30" width="40" alt="Instagram" style="margin-right: 10px;" />
   </a>
+  <a href="https://steamcommunity.com/id/Vuol02/" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/steam/000000" height="30" width="40" alt="Steam" style="margin-right: 10px;" />
+  </a>
+  
 </p>
 
 
